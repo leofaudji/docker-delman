@@ -1,0 +1,8 @@
+require-mschap-v2
+refuse-pap
+refuse-chap
+refuse-mschap
+ms-dns 8.8.8.8
+ms-dns 8.8.4.4
+name l2tpd
+password 12345
